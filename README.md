@@ -4,8 +4,12 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Full-Stack+Engineer+%7C+1%2B+Years;Next.js+%7C+Node.js+%7C+TypeScript+%7C+MongoDB;Building+CI%2FCD+%26+IoT+Platforms;Scalable+Systems+%7C+Real-Time+Features)](https://git.io/typing-svg)
 
+
+
 [![Profile Views](https://komarev.com/ghpvc/?username=vickynot-10&style=flat-square&color=70a5fd&label=Profile+Views)](https://github.com/vickynot-10)
-[![GitHub followers](https://img.shields.io/github/followers/vickynot-10?style=flat-square&color=70a5fd&logo=github&logoColor=white)](https://github.com/vickynot-10)
+
+
+[![GitHub followers](https://img.shields.io/github/followers/vickynot-10?label=Followers&style=flat-square&color=70a5fd&logo=github&logoColor=white)](https://github.com/vickynot-10?tab=followers)
 
 </div>
 
