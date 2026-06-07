@@ -1,14 +1,10 @@
 <div align="center">
 
-[![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Vignesh&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack+Engineer+%7C+Building+scalable+systems+%26+real-time+apps&descAlignY=62&descSize=16)](https://vickynot.vercel.app/)
-
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Vignesh&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=40)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Full-Stack+Engineer+%7C+1%2B+Years;Next.js+%7C+Node.js+%7C+TypeScript+%7C+MongoDB;Building+CI%2FCD+%26+IoT+Platforms;Scalable+Systems+%7C+Real-Time+Features)](https://git.io/typing-svg)
 
 
-
 [![Profile Views](https://komarev.com/ghpvc/?username=vickynot-10&style=flat-square&color=70a5fd&label=Profile+Views)](https://github.com/vickynot-10)
-
-
 [![GitHub followers](https://img.shields.io/github/followers/vickynot-10?label=Followers&style=flat-square&color=70a5fd&logo=github&logoColor=white)](https://github.com/vickynot-10?tab=followers)
 
 </div>
@@ -84,20 +80,6 @@ const vignesh = {
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<a href="https://github.com/vickynot-10">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vickynot-10&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
-</a>
-<a href="https://github.com/vickynot-10">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vickynot-10&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
-</a>
-
-</div>
-
----
 
 ## 🔥 Streak Stats
 
@@ -117,17 +99,7 @@ const vignesh = {
 
 </div>
 
----
 
-## 🏆 Trophy Wall
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=vickynot-10&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
 
 ## 💼 Work Experience
 
@@ -195,7 +167,7 @@ const vignesh = {
 
 | Degree | Institution | Year | Score |
 |:-------|:------------|:----:|:-----:|
-| B.A. Information Technology | The Madura College, Madurai | 2021 – 2024 | CGPA 7.61 |
+| B.Sc. Information Technology | The Madura College, Madurai | 2021 – 2024 | CGPA 7.61 |
 
 </div>
 
@@ -205,8 +177,7 @@ const vignesh = {
 
 ```
 🧱 DSA          → Arrays, HashMaps, Linked Lists, Trees (NeetCode 150 / Blind 75)
-⚙️  System Design → Distributed systems, caching strategies, message queues
-🐳 DevOps       → Docker, container orchestration, GitHub Actions CI/CD
+⚙️System Design → Distributed systems, caching strategies, message queues
 🔍 Algorithms   → LeetCode JavaScript / TypeScript problem solving
 ```
 
